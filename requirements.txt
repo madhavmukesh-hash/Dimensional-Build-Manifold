@@ -1,0 +1,16 @@
+# Data Acquisition & Manipulation
+yfinance>=0.2.3
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Mathematical Framework & Signal Processing
+scipy>=1.10.0
+statsmodels>=0.14.0
+
+# Visualization & Research
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Jupyter Environment
+notebook>=7.0.0
+ipykernel

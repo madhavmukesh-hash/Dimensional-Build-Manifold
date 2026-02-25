@@ -59,6 +59,13 @@ Our empirical research identifies two critical "phase transition" points that di
 
 ---
 
+## 3. The Threshold Hypothesis: 1.45 and 1.85
+
+![Manifold Topology](./manifold_viz.jpg)
+*Figure 1: Continuous State-Space Manifold. The surface represents the evolution of Spectral Entropy (H) relative to the joint returns of the constituent assets.*
+
+--
+
 ## 4. Methodology: Semantic Grounding
 
 Unlike traditional "Black Box" models, the DBM framework utilizes **Semantic Grounding**.
